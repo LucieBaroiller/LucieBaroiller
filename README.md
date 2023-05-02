@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**LucieBaroiller/LucieBaroiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lucie Baroiller**, I'm ~~30~~ **31** and I live next to **Nantes** (*France, 44*). Already started to learn web development in 2020 with OpenClassRooms and can't wait to learn more with O'Clock !
 
-Here are some ideas to get you started:
+## Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Coding
+- Pets
+- Movies/Series
+- Gaming
+
+### Let's get this party started ! 🥳
+![Gif Gatsby](https://alivreouvertdotnet.files.wordpress.com/2017/02/party-gif.gif)
